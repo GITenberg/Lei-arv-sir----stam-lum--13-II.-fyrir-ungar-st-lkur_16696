@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '6872'
     url: http://www.gutenberg.org/2009/agents/6872
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16696#Lei-arv-sir----stam-lum--13-II.-fyrir-ungar-st-lkur
 gutenberg_issued: '2005-09-15'
 gutenberg_type: Text
 identifiers:

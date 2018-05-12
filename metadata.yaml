@@ -1,0 +1,31 @@
+_repo: Lei-arv-sir----stam-lum--13-II.-fyrir-ungar-st-lkur_16696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jónína Sigríður Jónsdóttir
+    aliases:
+    - Jónsdóttir, Jónína Sigríður
+    - Madama Tobba
+    - Jonina Sigriður Jonsdottir
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '6872'
+    url: http://www.gutenberg.org/2009/agents/6872
+description: ''
+gutenberg_issued: '2005-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16696'
+language: is
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Young women -- Conduct of life'
+- !lcc 'HQ'
+title: "Leiðarvísir í ástamálum\r\nII. fyrir ungar stúlkur"
+url: http://www.gutenberg.org/ebooks/16696
